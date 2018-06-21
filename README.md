@@ -1,5 +1,5 @@
 # SlackTextViewController
-
+**IMPORTANT NOTICE: iOS 11 onwards issue resolved where textView hides behind the keyboard :)
 **IMPORTANT NOTICE: Please update to >= `1.9` to avoid any risk of app rejection.
 More details in [#361](https://github.com/slackhq/SlackTextViewController/issues/361)**
 
